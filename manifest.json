@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "isekai",
+  "version": "1.0",
+  "description": "Switch between two sets of tabs, like teleporting to another world.",
+  "icons": {
+    "48": "icons/modeA_icon.png",
+    "96": "icons/modeB_icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": "icons/modeA_icon.png",
+    "default_title": "isekai"
+  },
+  "permissions": [
+    "tabs",
+    "storage"
+  ]
+}
