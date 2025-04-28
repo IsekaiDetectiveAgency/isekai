@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "isekai",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Switch between two sets of tabs, like teleporting to another world.",
   "icons": {
     "48": "icons/modeA_icon.png",
