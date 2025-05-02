@@ -1,4 +1,5 @@
 Isekai Workspace Toggle
+🌟now with firefox multiaccount containers support🌟
 
 Switch instantly between two tab "worlds"—Work and Personal—without losing context, clutter, or memory. Click the extension icon to teleport between your focused workspace and your everyday browsing.
 
@@ -75,3 +76,5 @@ Open Source
 📣 Support & Feedback
 
 Found a bug? Have ideas? Open an issue through our GitHub (isekaidetectiveagency) or leave feedback through the extension page. We're committed to making context-switching effortless.
+
+🌟Enjoy
