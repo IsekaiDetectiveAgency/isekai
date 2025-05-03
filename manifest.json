@@ -1,7 +1,10 @@
 {
   "manifest_version": 2,
   "name": "isekai",
-  "version": "3.0",
+  "version": "3.3",
+  "icons": {
+    "128": "icons/isekai.png"
+  },
   "permissions": [
     "tabs",
     "storage",
