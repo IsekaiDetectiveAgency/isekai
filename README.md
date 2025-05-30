@@ -1,3 +1,5 @@
+#gave up on writing it since there are weird bugs until i lean JS to a fair point, contribute is appericiated.
+
 Isekai Workspace Toggle
 🌟now with firefox multiaccount containers support🌟
 
